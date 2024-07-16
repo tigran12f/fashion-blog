@@ -1,0 +1,91 @@
+.Insta{
+	display:flex;
+	width: 1880px;
+	height: 367px;
+	top: 3846px;
+	left: 20px;
+}
+img {
+  position: absolute;
+  clip: rect(20px, 296px, 296px, 10px);
+}
+.masked {
+  width: 296px;
+  height: 296px;
+  background-color: white;
+  
+}
+.InstaFooter {
+ width: 1880px;
+ height: 53px;
+margin-left:20px;
+ gap: 0px;
+ opacity: 0px;
+}
+#InstaF{
+ font-family: PT Serif;
+font-size: 24px;
+font-weight: 400px;
+line-height: 20px;
+margin-left:790px;
+
+}
+.logo{
+	width: 126px;
+height: 33px;
+font-family: PT Serif;
+font-size: 25px;
+line-height: 33.13px;
+letter-spacing: 2.5px;
+}
+
+
+
+footer{
+	display:grid;
+	grid-template-columns:1170px;
+	grid-template-rows:32px 6px 18px 34px 18px;
+	width: 1860px;
+	height: 261px;
+	padding-top: 453px;
+	
+	justify-content:space-around;
+	justify-items:center;
+}
+.goldline{
+	width: 125px;
+	height: 3px;
+
+	padding-right:;
+	opacity: 0.35px;
+	background: #C9A96E;
+
+
+}
+.line{
+	display:flex;
+	width: 353px;
+	height: 18px;
+	top: 92px;
+	margin-left: 8px;
+	gap: 50px;
+	opacity: 0px;
+
+}
+.media{
+		display:flex;
+	width: 353px;
+	height: 34px;
+ justify-content:space-around;
+	
+
+}
+#d2{
+width: 34px;
+height: 34px;
+
+border-radius: 50%;
+border:1px solid grey;
+
+
+}
