@@ -1,0 +1,230 @@
+#sidebar {
+    width: 270px;
+    height: 2566px;
+    margin-top: 860px;
+    margin-left: 1275px;  
+}
+
+.Bitmap_Copy_6 {
+    width: 270px;
+    height: 50px;
+    border: 1px solid #E5E5E5
+    /* margin-top: 860px; */
+    /* margin-left: 1275px;    */
+}
+
+.Bitmap_Copy_6 p {
+    font-family: PT Serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21.2px;
+    text-align: center;    
+}
+
+#Group_17 {
+    width: 270px;
+    height: 385px;
+    margin-top: 20px;
+    /* left: 1275px; */
+}
+
+#bitmap_img {
+ overflow: hidden;
+ width: 270px;
+ height: 180px;
+}
+
+#Kate_Willems {
+    width: 270px;
+    height: 205px;  
+}
+
+#K {
+    font-family: PT Serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 21.2px;
+    text-align: left;
+    padding-left: 84px;        
+}
+
+#F {
+    font-family: PT Serif;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 18.55px;
+    text-align: center;
+    color: #B1B1B1;   
+}
+
+#Hi {
+    font-family: PT Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    color: #666666;
+    width: 230px;
+    height: 72px;
+    padding-left: 20px;        
+}
+
+#fsh {
+    border: 1px solid #E5E5E5
+}
+
+#cont {
+    font-family: PT Serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15.9px;
+    text-align: left;
+    color: #C9A96E;
+    width: 117px;
+    height: 16px;
+    padding-left: 77px;
+    text-transform: uppercase;   
+}
+
+.item_2{
+    margin-top: 70px;
+}
+
+#Group_14 {
+    width: 270px;
+    height: 287px;
+    margin-top: 20px;
+}
+
+#bitmap_img2 {
+    width: 270px;
+    height: 160px;
+}
+
+#Jeans {
+    width: 270px;
+    height: 127px;
+    padding-top: 30px;  
+}
+
+#J {
+    font-family: PT Sans;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15.53px;
+    text-align: left;
+    text-transform: uppercase;   
+    color: #C9A96E;
+    padding-left: 119px;
+}
+
+#Saturn {
+    font-family: PT Serif;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+    width: 250px;
+    height: 52px;
+    padding-left: 10px;       
+}
+
+#June {
+    font-family: PT Serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15.9px;
+    text-align: left;
+    width: 166px;
+    height: 16px;
+    padding-left: 52px;
+    color: #666666;    
+}
+
+#June span {
+opacity: 0.5;    
+}
+
+#Group_15 {
+    width: 270px;
+    height: 375px;
+    margin-top: 60px;
+    overflow: hidden;
+}
+
+#bitmap_img3 {
+    width: 270px;
+    height: 160px;  
+}
+
+#Photography {
+    width: 270px;
+    height: 127px;
+    margin-top: 72px;  
+}
+
+#phot {
+    font-family: PT Sans;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15.53px;
+    text-align: left;
+    color: #C9A96E;
+    text-transform: uppercase;
+    width: 80px;
+    height: 16px;
+    padding-left: 95px;
+    padding-top: 15px;       
+}
+
+#categories {
+    width: 270px;
+    height: 280px;
+    margin-top: 70px;
+}
+
+#cat {
+    width: 270px;
+    height: 50px;
+    border: 1px solid #E5E5E5 
+}
+
+#cat p {
+    font-family: PT Serif;
+    font-size: 16px;
+    line-height: 21.2px;
+    text-align: center;    
+}
+
+#fashion {
+    width: 50px;
+    height: 18px;
+    margin-top: 20px;  
+}
+
+#fashion p {
+    font-family: PT Serif;
+    font-size: 14px;
+    line-height: 18.55px;
+    text-align: left;
+    color: #666666;    
+}
+
+#P23 {
+    width: 25px;
+    height: 18px;
+    margin-top: 20px; 
+}
+
+#P23 p {
+    font-family: PT Serif;
+    font-size: 14px;
+    line-height: 18.55px;
+    text-align: justify;
+    color: #666666;    
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+}
